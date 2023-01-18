@@ -28,6 +28,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Applications and a Guide to Web Scraping](https://www.fstep.org.my/wp-content/uploads/2020/12/FSTEP-The-application-of-Webscraping.pdf)
 - [An automated web scraping tool for Malaysia tourism](http://eprints.utar.edu.my/3493/1/CS-2019-1505499.pdf)
 - [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
+- [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
 ## Beautiful Soup
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
