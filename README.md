@@ -43,6 +43,7 @@ The information on this Github is part of the materials for the subject High Per
 ## lxml
 
 ## Selenium
+- [Web scraping E-commerce sites to compare prices with Python — Part 1](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62)
 
 ## Urllib3
 
