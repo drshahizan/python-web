@@ -33,6 +33,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Tutorial
 - [Video: Web Scraping untuk laman web berkaitan Bursa Malaysia](https://youtu.be/bmi_-oj2S9c)
+- [Web Scraping (The Star Malaysia News)](https://youtu.be/6tZAmu17M6g)
 - [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
 - [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
