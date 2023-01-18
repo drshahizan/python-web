@@ -61,7 +61,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Lab 3: Working With Python Environment](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer3.html)
 - [Lab 4: Interactive Embedded Shell](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer4.html)
 - [Lab 5: Rendering Bokeh Plot With Pyscript](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer5.html)
-- [Lab 6: matplotlib](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/matplotlib.html.html)
+- [Lab 6: Matplotlib](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/matplotlib.html.html)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-web/issues) for any improvements, suggestions or errors in the content.
