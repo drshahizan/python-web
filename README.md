@@ -44,6 +44,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Selenium
 - [Web scraping E-commerce sites to compare prices with Python — Part 1](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62)
+- [Web Scraping Election Results of PRU-15 (GE-15) using Python](https://medium.com/@elvinado/web-scraping-election-results-of-pru-15-ge-15-using-python-e9310129bf9e)
 
 ## Urllib3
 
