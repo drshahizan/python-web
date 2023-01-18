@@ -27,8 +27,10 @@ The information on this Github is part of the materials for the subject High Per
 - [Github: malaysia-election-data-scraping](https://github.com/Thibico/malaysia-election-data-scraping)
 - [Applications and a Guide to Web Scraping](https://www.fstep.org.my/wp-content/uploads/2020/12/FSTEP-The-application-of-Webscraping.pdf)
 - [An automated web scraping tool for Malaysia tourism](http://eprints.utar.edu.my/3493/1/CS-2019-1505499.pdf)
+- [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
 
-Beautiful Soup
+## Beautiful Soup
+- [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
 
 # Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
