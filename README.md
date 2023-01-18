@@ -21,8 +21,9 @@ The information on this Github is part of the materials for the subject High Per
 -   [Python Web Framework](https://github.com/drshahizan/python-web)
 
 # Web Scraping
-## Notes
-
+- [Web Scraping with EDA and Visualization Using Python](https://medium.com/analytics-vidhya/web-scraping-with-eda-and-visualization-using-python-a496ddf5f98e)
+- [Web Scraping of E-Commerce Website Using BeautifulSoup in Python](https://www.dosm.gov.my/v1/uploads/files/4_Portal%20Content/2_%20Statistics/MyStats/2022/Slaid/Sesi%201a_Web%20Scraping%20of%20E-Commerce%20Website%20Using%20BeautifulSoup%20in%20Python.pdf)
+- [Github: malaysia-election-data-scraping](https://github.com/Thibico/malaysia-election-data-scraping)
 
 # Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
