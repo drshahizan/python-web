@@ -37,6 +37,8 @@ The information on this Github is part of the materials for the subject High Per
 - [How to Easily Run Python Visualizations On a Web Browser with PyScript](https://youtu.be/QYIr7A5ueXA)
 
 # Django
+- [Meet Django](https://www.djangoproject.com/)
+- [Github: django](https://github.com/django/django)
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 - [Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
 - [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
