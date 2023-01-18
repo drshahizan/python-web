@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+        <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+        <script type="text/javascript"
+        src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
+        <script type="text/javascript"
+        src="https://cdn.bokeh.org/bokeh/release/bokeh-gl-2.4.2.min.js"></script>
+        <script type="text/javascript"
+        src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.4.2.min.js"></script>
+        <script type="text/javascript"
+        src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.4.2.min.js"></script>
+        <script type="text/javascript"
+        src="https://cdn.bokeh.org/bokeh/release/bokeh-mathjax-2.4.2.min.js"></script>
+        <title>Chart Example</title>
+        <title>Chart Example</title>
+        <py-env>
+        - bokeh
+        - numpy
+        - pandas
+        </py-env>
+    </head>
+<body>
+    <h2>Bokeh Chart</h2>
+    <div id="chart"></div>
+    <py-script>
+    import json
+    import pyodide
+    from js import Bokeh, console, JSON
+    from bokeh.embed import json_item
+    from bokeh.plotting import figure
+    from bokeh.resources import CDN
+    vegetables = ['Carrot', 'Onion', 'Potato', 'Cabbage', 'garlic']
+    values = [15, 23, 34, 14, 12]
+    pl = figure(x_range=vegetables, height=350, title="Vegetables Counts",
+    toolbar_location=None, tools="")
+    pl.vbar(x=vegetables, top=values, width=0.9)
+    pl.xgrid.grid_line_color = None
+    pl.y_range.start = 0
+    p_json = json.dumps(json_item(pl, "chart"))
+    Bokeh.embed.embed_item(JSON.parse(p_json))
+    </py-script>
+</body>
+</html>
