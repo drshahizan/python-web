@@ -22,6 +22,7 @@ The information on this Github is part of the materials for the subject High Per
 
 # Notes
 - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- [Top 11 Python Frameworks for Web Development In 2023](https://www.netsolutions.com/insights/top-10-python-frameworks-for-web-development-in-2019/)
 - [Github: Real Python - materials](https://github.com/realpython/materials)
 
 # PyScript
