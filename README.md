@@ -39,6 +39,7 @@ The information on this Github is part of the materials for the subject High Per
 # Django
 - [Meet Django](https://www.djangoproject.com/)
 - [Github: django](https://github.com/django/django)
+- [Django Tutorial: w3schools](https://www.w3schools.com/django/index.php)
 - [A Practical Introduction to Web Scraping in Python](https://realpython.com/python-web-scraping-practical-introduction/)
 - [Creating and Viewing HTML files with Python](https://www.geeksforgeeks.org/creating-and-viewing-html-files-with-python/)
 - [Running Django on Google Colab](https://medium.com/@arsindoliya/running-django-on-google-colab-ea9392cdee86)
