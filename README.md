@@ -35,6 +35,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Video: Web Scraping untuk laman web berkaitan Bursa Malaysia](https://youtu.be/bmi_-oj2S9c)
 - [Video: Web Scraping (The Star Malaysia News)](https://youtu.be/6tZAmu17M6g)
 - [Video: Scraping YellowPages.my | Name, Website, Email, Phone | Yellow Pages Malaysia](https://youtu.be/fO9701IUSrY)
+- [Video: Tutorial Web Scraper - Dengan Chrome Web Scraper]()
 - [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
 - [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
