@@ -55,6 +55,7 @@ The information on this Github is part of the materials for the subject High Per
 - [The TurboGears Documentation](https://turbogears.org/documentation.html)
 - [Wikipedia: TurboGears](https://en.wikipedia.org/wiki/TurboGears)
 - [Github: TurboGears](https://github.com/TurboGears/tg2)
+- [Turbogears - Quick Guide](https://www.tutorialspoint.com/turbogears/turbogears_quick_guide.htm)
 
 ## Power BI
 - [Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
