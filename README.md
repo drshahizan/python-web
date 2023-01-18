@@ -20,7 +20,11 @@ The information on this Github is part of the materials for the subject High Per
 -   [Big data processing](https://github.com/drshahizan/Python-big-data)
 -   [Python Web Framework](https://github.com/drshahizan/python-web)
 
-# Notes
+# Web Scraping
+## Notes
+
+
+# Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
 - [Python Web Framework — A Detailed List of Web Frameworks in Python](https://towardsdatascience.com/python-web-framework-a-detailed-list-of-web-frameworks-in-python-1916d3c6222d)
 - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
