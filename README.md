@@ -21,7 +21,7 @@ The information on this Github is part of the materials for the subject High Per
 -   [Python Web Framework](https://github.com/drshahizan/python-web)
 
 <p align="center">
-<img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="200" />
+<img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="150" />
 </p>
 
 # Web Scraping
