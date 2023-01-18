@@ -56,11 +56,10 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Requests
 
-## lxml
-
 ## Urllib3
 
 ## Lxml
+- [Web Scraping using lxml and Python 2018: Extracting data from Steam](https://youtu.be/5N066ISH8og)
 
 ## MechanicalSoup
 
