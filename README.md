@@ -20,6 +20,10 @@ The information on this Github is part of the materials for the subject High Per
 -   [Big data processing](https://github.com/drshahizan/Python-big-data)
 -   [Python Web Framework](https://github.com/drshahizan/python-web)
 
+<p align="center">
+<img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="200" />
+</p>
+
 # Web Scraping
 - [Web Scraping with EDA and Visualization Using Python](https://medium.com/analytics-vidhya/web-scraping-with-eda-and-visualization-using-python-a496ddf5f98e)
 - [Python Web Scraping - Quick Guide](https://www.tutorialspoint.com/python_web_scraping/python_web_scraping_quick_guide.htm)
