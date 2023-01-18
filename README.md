@@ -21,6 +21,7 @@ The information on this Github is part of the materials for the subject High Per
 -   [Python Web Framework](https://github.com/drshahizan/python-web)
 
 # Notes
+- [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
 - [Python Web Framework — A Detailed List of Web Frameworks in Python](https://towardsdatascience.com/python-web-framework-a-detailed-list-of-web-frameworks-in-python-1916d3c6222d)
 - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
 - [Top 11 Python Frameworks for Web Development In 2023](https://www.netsolutions.com/insights/top-10-python-frameworks-for-web-development-in-2019/)
