@@ -39,9 +39,14 @@ The information on this Github is part of the materials for the subject High Per
 - [Video: Web Scraping untuk laman web berkaitan Bursa Malaysia](https://youtu.be/bmi_-oj2S9c)
 - [Video: Web Scraping (The Star Malaysia News)](https://youtu.be/6tZAmu17M6g)
 - [Video: Scraping YellowPages.my | Name, Website, Email, Phone | Yellow Pages Malaysia](https://youtu.be/fO9701IUSrY)
-- [Video: Tutorial Web Scraper - Dengan Chrome Web Scraper]()
+- [Video: Tutorial Web Scraper - Dengan Chrome Web Scraper](https://youtu.be/FcrscxUeEj0)
+- [Video: Cara Scraping Banyak Produk Tokopedia Dengan Tools Gratisan Chrome](https://youtu.be/zGOcGU1BSsc)
 - [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
 - [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
+
+## Selenium
+- [Web scraping E-commerce sites to compare prices with Python — Part 1](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62)
+- [Web Scraping Election Results of PRU-15 (GE-15) using Python](https://medium.com/@elvinado/web-scraping-election-results-of-pru-15-ge-15-using-python-e9310129bf9e)
 
 ## Beautiful Soup
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
@@ -52,10 +57,6 @@ The information on this Github is part of the materials for the subject High Per
 ## Requests
 
 ## lxml
-
-## Selenium
-- [Web scraping E-commerce sites to compare prices with Python — Part 1](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62)
-- [Web Scraping Election Results of PRU-15 (GE-15) using Python](https://medium.com/@elvinado/web-scraping-election-results-of-pru-15-ge-15-using-python-e9310129bf9e)
 
 ## Urllib3
 
