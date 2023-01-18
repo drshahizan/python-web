@@ -26,7 +26,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Top 11 Python Frameworks for Web Development In 2023](https://www.netsolutions.com/insights/top-10-python-frameworks-for-web-development-in-2019/)
 - [Github: Real Python - materials](https://github.com/realpython/materials)
 
-# PyScript
+## PyScript
 - [PyScript - GitHub](https://github.com/pyscript/pyscript)
 - [Run Python Visualizations on the Web Using PyScript](https://www.makeuseof.com/pyscript-python-visualizations-web/)
 - [Run Python in Your HTML](https://pyscript.net/)
@@ -37,7 +37,7 @@ The information on this Github is part of the materials for the subject High Per
 - [How to Embed Interactive Python Visualizations on Your Website with Python and Matplotlib](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
 - [How to Easily Run Python Visualizations On a Web Browser with PyScript](https://youtu.be/QYIr7A5ueXA)
 
-# Django
+## Django
 - [Meet Django](https://www.djangoproject.com/)
 - [Github: django](https://github.com/django/django)
 - [Django Tutorial: w3schools](https://www.w3schools.com/django/index.php)
@@ -50,8 +50,11 @@ The information on this Github is part of the materials for the subject High Per
 - [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
 - [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
 
-# Power BI
+## Power BI
 -[Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
+
+# Lab
+-[PyScript 1]()
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-web/issues) for any improvements, suggestions or errors in the content.
