@@ -50,6 +50,12 @@ The information on this Github is part of the materials for the subject High Per
 - [Best Python Django Tutorial For Beginners – With Project Structure](https://data-flair.training/blogs/python-django-tutorial/)
 - [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
 
+## Python TurboGears 
+- [Python TurboGears: The Web Framework that scales with you](https://turbogears.org/)
+- [The TurboGears Documentation](https://turbogears.org/documentation.html)
+- [Wikipedia: TurboGears](https://en.wikipedia.org/wiki/TurboGears)
+- [Github: TurboGears](https://github.com/TurboGears/tg2)
+
 ## Power BI
 - [Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
 
