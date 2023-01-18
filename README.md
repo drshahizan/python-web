@@ -51,17 +51,17 @@ The information on this Github is part of the materials for the subject High Per
 - [Django Dashboards — Open Source and Free](https://medium.com/@appseed.us/django-dashboards-open-source-and-free-projects-1d8e64919e6d)
 
 ## Power BI
--[Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
+- [Microsoft Power BI and Python: Two Superpowers Combined](https://realpython.com/power-bi-python/)
 
 # Lab
 
 ## PyScript
--[Lab 1: Hello World Program](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer1.html)
--[Lab 2: Pyscript With the src Attribute](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer2.html)
--[Lab 3: Working With Python Environment](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer3.html)
--[Lab 4: Interactive Embedded Shell](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer4.html)
--[Lab 5: Rendering Bokeh Plot With Pyscript](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer5.html)
--[Lab 6: matplotlib](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/matplotlib.html.html)
+- [Lab 1: Hello World Program](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer1.html)
+- [Lab 2: Pyscript With the src Attribute](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer2.html)
+- [Lab 3: Working With Python Environment](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer3.html)
+- [Lab 4: Interactive Embedded Shell](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer4.html)
+- [Lab 5: Rendering Bokeh Plot With Pyscript](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/exer5.html)
+- [Lab 6: matplotlib](https://raw.githubusercontent.com/drshahizan/python-web/main/pyscript/matplotlib.html.html)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/python-web/issues) for any improvements, suggestions or errors in the content.
