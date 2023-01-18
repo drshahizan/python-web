@@ -31,6 +31,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 - [7 Python Libraries For Web Scraping To Master Data Extraction](https://www.projectpro.io/article/python-libraries-for-web-scraping/625)
 - [Web Scraping Freelancers in Malaysia](https://www.truelancer.com/web-scraping-freelancers-in-malaysia)
+- [Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
 
 ## Beautiful Soup
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
