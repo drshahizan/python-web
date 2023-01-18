@@ -32,6 +32,7 @@ The information on this Github is part of the materials for the subject High Per
 
 ## Beautiful Soup
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Python Web Scraping Tutorial](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
 ## Requests
 
