@@ -31,6 +31,8 @@ The information on this Github is part of the materials for the subject High Per
 - [Web Scraping of E-Commerce Website Using BeautifulSoup in Python](https://www.dosm.gov.my/v1/uploads/files/4_Portal%20Content/2_%20Statistics/MyStats/2022/Slaid/Sesi%201a_Web%20Scraping%20of%20E-Commerce%20Website%20Using%20BeautifulSoup%20in%20Python.pdf)
 - [Github: malaysia-election-data-scraping](https://github.com/Thibico/malaysia-election-data-scraping)
 - [Applications and a Guide to Web Scraping](https://www.fstep.org.my/wp-content/uploads/2020/12/FSTEP-The-application-of-Webscraping.pdf)
+- [Github:malaysiastockbiz_scraper](
+https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiastock_biz_scraper.ipynb)
 - [An automated web scraping tool for Malaysia tourism](http://eprints.utar.edu.my/3493/1/CS-2019-1505499.pdf)
 - [7 Python Libraries For Web Scraping To Master Data Extraction](https://www.projectpro.io/article/python-libraries-for-web-scraping/625)
 - [Web Scraping Freelancers in Malaysia](https://www.truelancer.com/web-scraping-freelancers-in-malaysia)
