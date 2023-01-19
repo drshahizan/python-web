@@ -25,6 +25,7 @@ The information on this Github is part of the materials for the subject High Per
 </p>
 
 # Web Scraping
+- [Grouping: Web Scraping](https://docs.google.com/spreadsheets/d/1fSaFVWygEo6oZvQjXUaEYAWEDmNj7An0qg3ouKmz8a4/edit#gid=1313952741)
 - [Web Scraping with EDA and Visualization Using Python](https://medium.com/analytics-vidhya/web-scraping-with-eda-and-visualization-using-python-a496ddf5f98e)
 - [Python Web Scraping - Quick Guide](https://www.tutorialspoint.com/python_web_scraping/python_web_scraping_quick_guide.htm)
 - [Web Scraping of E-Commerce Website Using BeautifulSoup in Python](https://www.dosm.gov.my/v1/uploads/files/4_Portal%20Content/2_%20Statistics/MyStats/2022/Slaid/Sesi%201a_Web%20Scraping%20of%20E-Commerce%20Website%20Using%20BeautifulSoup%20in%20Python.pdf)
