@@ -61,13 +61,11 @@ The information on this Github is part of the materials for the subject High Per
 - [Scrapy: Malaysia House Property](https://github.com/neurotichl/Scrapy-Crawl-IProperty)
 
 ## Requests
-
-## Urllib3
+- [Requests - Web Scraping using Requests](https://www.tutorialspoint.com/requests/requests_web_scraping_using_requests.htm)
+- [Web Scraping in Python with Beautiful Soup and Requests](https://www.kirenz.com/post/2022-05-02-web-scraping-in-python-with-beautiful-soup-requests-and-pandas/)
 
 ## Lxml
 - [Web Scraping using lxml and Python 2018: Extracting data from Steam](https://youtu.be/5N066ISH8og)
-
-## MechanicalSoup
 
 # Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
