@@ -53,6 +53,7 @@ The information on this Github is part of the materials for the subject High Per
 - [Python Web Scraping Tutorial](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
 ## Scrapy
+- [Scrapy.org](https://scrapy.org/)
 
 ## Requests
 
