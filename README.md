@@ -55,6 +55,7 @@ The information on this Github is part of the materials for the subject High Per
 ## Scrapy
 - [Scrapy.org](https://scrapy.org/)
 - [Github: Scrapy](https://github.com/scrapy/scrapy)
+- [Python Scrapy Tutorial for Beginners](https://360digitmg.com/blog/python-scrapy-tutorial-for-beginners)
 - [Spider Web Crawler: Mudah.my(https://gist.github.com/amirulasyraf88/55b5938dd220c5d883e7)
 - [Scrapy: Malaysia House Property](https://github.com/neurotichl/Scrapy-Crawl-IProperty)
 
