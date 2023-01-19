@@ -20,6 +20,17 @@ The information on this Github is part of the materials for the subject High Per
 - [Exploratory data analysis](https://github.com/drshahizan/Python_EDA)
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 
+### Contents:
+- [Web Scraping](#web-craping)
+  - Big Data: Pandas
+  - Big Data: Alternatives to Pandas for Processing Large Datasets
+    - Modin
+    - Dask
+    - Datatable
+   - Comparison between libraries
+   - Big Data: Case study
+- [Python web development](#python-web-development)
+
 <p align="center">
 <img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="150" />
 </p>
