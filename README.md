@@ -21,15 +21,20 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 ### Contents:
-- [Web Scraping](#web-craping)
-  - Big Data: Pandas
-  - Big Data: Alternatives to Pandas for Processing Large Datasets
-    - Modin
-    - Dask
-    - Datatable
-   - Comparison between libraries
-   - Big Data: Case study
+- [Web Scraping](#web-scraping)
+  - [Tutorial](#tutorial)
+  - [Selenium](#selenium)
+  - [Beautiful Soup](#beautiful-soup)
+  - [Scrapy](#scrapy)
+  - [Requests](#requests)
+  - [Lxml](#lxml)
 - [Python web development](#python-web-development)
+  - [PyScript](#pyScript)
+  - [Django](#django)
+  - [Python TurboGears](#python-turbogears)
+  - [web2py](#web2py)
+  - [Power BI](#power-bi)
+- [Lab](#lab)
 
 <p align="center">
 <img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="150" />
