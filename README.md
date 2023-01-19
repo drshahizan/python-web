@@ -53,6 +53,7 @@ https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiasto
 - [7 Python Libraries For Web Scraping To Master Data Extraction](https://www.projectpro.io/article/python-libraries-for-web-scraping/625)
 - [Web Scraping Freelancers in Malaysia](https://www.truelancer.com/web-scraping-freelancers-in-malaysia)
 - [Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
+- [5 Web Scraping Projects with Python](https://amankharwal.medium.com/5-web-scraping-projects-with-python-4bcc25ff039)
 
 ## Tutorial
 - [Video: Web Scraping untuk laman web berkaitan Bursa Malaysia](https://youtu.be/bmi_-oj2S9c)
