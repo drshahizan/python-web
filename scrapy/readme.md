@@ -1,3 +1,5 @@
+# Scrapy
+
 Scrapy is a Python web scraping framework. It provides a pre-defined set of methods and classes for crawling websites and extracting structured data, such as data for items like products, prices, reviews, etc. Scrapy is built on top of the Twisted asynchronous networking library, which means that it can handle large amounts of data and high concurrency without blocking the execution of the program.
 
 Scrapy has several built-in features like:
