@@ -1,5 +1,5 @@
 <h1 align="center">
-  Web Scraping with BeautifulSoup [High Five]
+  Web Scraping with Beautiful Soup [High Five]
   <br>
 </h1>
 
