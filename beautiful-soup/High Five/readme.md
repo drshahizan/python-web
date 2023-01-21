@@ -1,4 +1,7 @@
-## Summary of Google Play Store Application 
+<h1 align="center">
+  Web Scraping with BeautifulSoup [High Five]
+  <br>
+</h1>
 
 This dataset is about the Summary of Google Play Store Applications. This dataset contains the collection of all applications' data that was collected on June 2021. Throughout the project, we have used multiple libraries such as pandas, numpy, matplotlib and seaborn. This dataset was retrieved from [here](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps).
 
