@@ -7,3 +7,4 @@ Web scraping is the automated gathering of content and data from a website or an
 Web Scraping with Selenium allows you to gather all the required data using Selenium Webdriver Browser Automation. Selenium crawls the target URL webpage and gathers data at scale.<br>
 
 Selenium uses the Webdriver protocol to automate processes on various popular browsers such as Firefox, Chrome, and Safari. This automation can be carried out locally (for purposes such as testing a web page) or remotely (for purposes such as web scraping).
+a
