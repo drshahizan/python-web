@@ -8,7 +8,7 @@ Web scraping is the process of automatically extracting information from a websi
 Web scraping can be used for a wide variety of purposes, such as data mining, data analysis, price comparison, sentiment analysis, and more. The web scraping process can be done manually or using web scraping tools and libraries such as Beautiful Soup, Scrapy, Selenium, and many more.
 
 ```html
-<style="color:red;">It is important to note that web scraping can be subject to legal restrictions and terms of use of the websites. </style>
+<p style="color:red;">It is important to note that web scraping can be subject to legal restrictions and terms of use of the websites. </p>
 ```
 
 Beautiful Soup is a package provided by Python with the purpose of parsing XML and HTML files. Beautiful Soup is commonly used to perform web scraping since most websites and web pages used HTML. It provides simple methods and Pythonic idioms for navigating, searching, and modifying the parse tree, and it sits on top of popular Python parsers like lxml and html5lib, allowing users to try out different parsing strategies or trade speed for flexibility. 
