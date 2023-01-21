@@ -1,7 +1,6 @@
 <h1 align="center">
   Beautiful Soup
   <br>
-</h1>
 
 <table border="solid">
   <tr>
@@ -25,6 +24,7 @@
     <td>A20EC0172</td>
   </tr>
 </table>
+</h1>
 
 <p>
   Beautiful Soup is a Python library that is used for web scraping. It allows you to parse the HTML or XML documents into a readable tree-like format, and then extract data from the tree based on its structure. With Beautiful Soup, you can easily navigate through the document, search for specific tags, and extract the text or attributes of those tags. It is often used in combination with other libraries such as requests to programmatically access web pages and extract data from them.
