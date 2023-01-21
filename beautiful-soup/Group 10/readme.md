@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
   Group 10 - Web Scraping using BeautifulSoup
   <br>
 </h1>
