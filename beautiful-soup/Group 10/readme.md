@@ -3,16 +3,29 @@
   <br>
 </h1>
 
+<table border="solid">
+  <tr>
+    <th>Name</th>
+    <th>Matric Number</th>
+  </tr>
+  <tr>
+    <td width=80%>FARAH IRDINA BINTI AHMAD BAHARUDIN</td>
+    <td>A20EC0035</td>
+  </tr>
+  <tr>
+    <td width=80%>LOW JUNYI</td>
+    <td>A20EC0071</td>
+  </tr>
+  <tr>
+    <td width=80%>NURFARRAHIN BINTI CHE ALIAS</td>
+    <td>A20EC0121</td>
+  </tr>
+  <tr>
+    <td width=80%>YONG ZHI YAN</td>
+    <td>A20EC0172</td>
+  </tr>
+</table>
+
 <p>
-  <a>'beautifulsoup4' is a Python library that is used for web scraping and parsing HTML and XML documents. It creates parse trees from the HTML or XML documents that      can be used to extract data from the webpages. It allows developers to navigate, search, and modify the parse tree, which can be useful for web scraping and other        tasks.</a>
-
-  <a>One of the key features of 'beautifulsoup4' is its ability to search for specific elements within the parse tree using the find() and find_all() methods. These        methods can be used to search for elements based on their tag name, class, or id, making it easy to extract specific data from a webpage.</a>
-
-  <a>Another useful feature of beautifulsoup4 is its ability to access the attributes of elements within the parse tree. This allows developers to extract information      such as the src attribute of an image tag, the href attribute of a link tag, and other attributes that may be useful for web scraping.</a>
-
-  <a>'beautifulsoup4' also provides a lot of functionalities and options to handle the different cases of parsing, such as handling missing tags, converting elements        from string to int and float, and much more.</a>
-
-  <a>'beautifulsoup4' is a powerful and easy-to-use library for web scraping, and it is widely used by developers for a wide range of tasks. It is compatible with Python     2 and Python 3 and can be easily installed using pip.</a>
-
-  <a>Overall, 'beautifulsoup4' is a great tool for web scraping, it is fast and efficient and it provides a lot of functionalities that make it easy to extract data from    webpages and handle different cases of parsing.</a>
+  Beautiful Soup is a Python library that is used for web scraping. It allows you to parse the HTML or XML documents into a readable tree-like format, and then extract data from the tree based on its structure. With Beautiful Soup, you can easily navigate through the document, search for specific tags, and extract the text or attributes of those tags. It is often used in combination with other libraries such as requests to programmatically access web pages and extract data from them.
 </p> 
