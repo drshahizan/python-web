@@ -3,7 +3,9 @@
   <br>
 </h1>
 
-This dataset is about the Summary of Google Play Store Applications. This dataset contains the collection of all applications' data that was collected on June 2021. Throughout the project, we have used multiple libraries such as pandas, numpy, matplotlib and seaborn. This dataset was retrieved from [here](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps).
+Beautiful Soup is a package provided by Python with the purpose of parsing XML and HTML files. Beautiful Soup is commonly used to perform web scraping since most websites and web pages used HTML. It provides simple methods and Pythonic idioms for navigating, searching, and modifying the parse tree, and it sits on top of popular Python parsers like lxml and html5lib, allowing users to try out different parsing strategies or trade speed for flexibility. 
+
+In this project, we are required to perform web scraping using Beautiful Soup for any website which have any relation with Malaysia. Since we were briefed to specifically choose the website that related to Malaysia, we had chosen to use [this](https://eduspiral.com/about-us-eduspiral-consultant-services/advise-best-course-study-top-private-universities-malaysia/top-guides-choosing-the-best-course/best-courses-study-in-malaysia/top-10-degree-courses-in-malaysia-with-highest-starting-salaries/choosing-a-degree-malaysia-top-most-popular-courses/top-ten-best-degree-diploma-foundtion-pre-university-courses-to-study-in-malaysia-after-spm-uec-olevels-stpm-alevels-cpu-sam-ausmat-mufy/) website. 
 
 <h3 align=center>
 Group members:
