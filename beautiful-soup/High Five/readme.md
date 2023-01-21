@@ -8,7 +8,7 @@ This dataset is about the Summary of Google Play Store Applications. This datase
 
 ## Group members:
 
-<table>
+<table align=center>
   <tr>
     <th>Name</th>
     <th>Matric Number</th>
