@@ -2,13 +2,12 @@
   <img src="https://user-images.githubusercontent.com/120556342/213472469-8d7564ad-2111-4c7d-93f2-daab966e322e.png"/>
 </p>
 <h1>
-  Web scraping E-commerce sites with Selenium<i class="fas fa-shopping-cart"></i>
+  Web scraping E-commerce sites with Selenium
   <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/213840786-a564d96a-9798-4a3a-902b-ed90f1e9cef1.png'/>
 
   <br>
 </h1>
-<i class="fas fa-shopping-cart"></i>
-In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of reviews from the website.<br>
+In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br>
 <h2> Group Members</h2>
 <table>
   <tr>
