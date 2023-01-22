@@ -8,7 +8,7 @@
   <br>
 </h1>
 <i class="fas fa-shopping-cart"></i>
-In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia.<br>
+In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of reviews from the website.<br>
 <h2> Group Members</h2>
 <table>
   <tr>
