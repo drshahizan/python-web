@@ -36,4 +36,5 @@ In this file, we are going to do some web scraping by using selenium library. We
   Selenium
   <br>
 </h2>
-Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.
+Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.<br><br>
+Other than that, it is a Python library and tool used for automating web browsers to do a number of tasks. One of such is web-scraping to extract useful data and information that may be otherwise unavailable.
