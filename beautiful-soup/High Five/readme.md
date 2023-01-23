@@ -11,6 +11,9 @@
 In this project, we are required to perform web scraping using Beautiful Soup for any website which have any relation with Malaysia. Since we were briefed to specifically choose the website that related to Malaysia, we had chosen to use [this](https://eduspiral.com/about-us-eduspiral-consultant-services/advise-best-course-study-top-private-universities-malaysia/top-guides-choosing-the-best-course/best-courses-study-in-malaysia/top-10-degree-courses-in-malaysia-with-highest-starting-salaries/choosing-a-degree-malaysia-top-most-popular-courses/top-ten-best-degree-diploma-foundtion-pre-university-courses-to-study-in-malaysia-after-spm-uec-olevels-stpm-alevels-cpu-sam-ausmat-mufy/) website to execute the web scraping. 
 
 <h3 align=center>
+
+![image](https://user-images.githubusercontent.com/99240177/214037671-3a6d291e-358c-4f66-b2bc-204d65dae20e.png)
+
 Group members:
 </h3>
 
@@ -36,4 +39,3 @@ Group members:
     <td>A20EC0200</td>
   </tr>
   </table>
-
