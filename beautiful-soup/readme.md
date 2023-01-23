@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/99240177/214037671-3a6d291e-358c-4f66-b2bc-204d65dae20e.png)
-
 <h1 align="center">
   Beautiful Soap
   <br>
