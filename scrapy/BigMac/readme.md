@@ -16,12 +16,12 @@
     <th>A20EC0176</th>
   </tr>
     <tr>
-    <th>Kong Jia Rou</th>
-    <th>A20EC0198</th>
+    <th></th>
+    <th></th>
   </tr>
     <tr>
-    <th>Rasmin Kaur Sandhu</th>
-    <th>A19ET0216</th>
+    <th></th>
+    <th></th>
   </tr>
 </table> 
 
