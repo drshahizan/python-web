@@ -98,10 +98,10 @@ https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiasto
 | BigMac | Scrapy | [CompAsia.com](https://shop.compasia.com/collections/apple) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/scrapy/BigMac) |
 | Group 11 | Scrapy | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | AdMiPeQa | Selenium  | [Lazada](https://www.lazada.com.my) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/selenium/AdMiPeQa) |
-| Group 4 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Group 9 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]() |
+| SamVerse | Selenium | [Malaysia General Election (GE-15)](https://www.bharian.com.my/berita/nasional/2022/11/1028360/keputusan-rasmi-pru15) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/selenium/SamVerse) |
+| Group 9 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/selenium/group9) |
 | No Name | Requests | [Puma: sneakers](https://my.puma.com/my/en/women/shoes/sneakers) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/requests) |
-| Group 8 | Lxml | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Quad | Lxml | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 
 # Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
