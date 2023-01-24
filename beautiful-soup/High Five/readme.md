@@ -10,7 +10,7 @@
 
 In this project, we are required to perform web scraping using Beautiful Soup for any website which have any relation with Malaysia. Since we were briefed to specifically choose the website that related to Malaysia, we had chosen to use [this](https://eduspiral.com/about-us-eduspiral-consultant-services/advise-best-course-study-top-private-universities-malaysia/top-guides-choosing-the-best-course/best-courses-study-in-malaysia/top-10-degree-courses-in-malaysia-with-highest-starting-salaries/choosing-a-degree-malaysia-top-most-popular-courses/top-ten-best-degree-diploma-foundtion-pre-university-courses-to-study-in-malaysia-after-spm-uec-olevels-stpm-alevels-cpu-sam-ausmat-mufy/) website to execute the web scraping.
 
-The output of this web scraping will be a list of dictionaries, where each dictionary represents one item from the first ordered list (<ol>) element on the web page. The dictionaries will contain the following key-value pairs:
+The output of this web scraping will be a list of dictionaries, where each dictionary represents one item from the first ordered list (ol) element on the web page. The dictionaries will contain the following key-value pairs:
 
     'Category': the text of the first <strong> element found within the list item
     'Course Name': the text of the list item
