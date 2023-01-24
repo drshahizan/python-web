@@ -37,3 +37,9 @@ In this file, we are going to do some web scraping by using selenium library. We
 </h2>
 Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.<br><br>
 Other than that, it is a Python library and tool used for automating web browsers to do a number of tasks. One of such is web-scraping to extract useful data and information that may be otherwise unavailable.
+
+<h2>
+  Results
+  <br>
+</h2>
+We used Selenium to browse Lazada to look for sellers that sell Milo Activ powder in 1KG packages. We collected the information from the first page of results when searching for "Milo Activ Go 1kg". We collected information such as "ItemName", "Price", "Location", and "Reviews". There results can be seen at the ['Lazada_Milo.csv'](Lazada_Milo.csv) file
