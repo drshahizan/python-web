@@ -95,13 +95,13 @@ https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiasto
 | High Five | Beautiful soup | [EduSpiral Consultant Services](https://eduspiral.com/) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/beautiful-soup/High%20Five) |
 | QwQ | Beautiful soup | [States and federal territories of Malaysia](https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/beautiful-soup/QwQ) |
 | SDS | Scrapy | [Book Depository](https://www.bookdepository.com/search?searchTerm=big+data&search=Find+book) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/scrapy/SDS) |
-| Group6 | Scrapy | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]() |
-| Group11 | Scrapy | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Group 6 | Scrapy | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]() |
+| Group 11 | Scrapy | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 | AdMiPeQa | Selenium  | [Lazada](https://www.lazada.com.my) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/selenium/AdMiPeQa) |
-| Group4 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| Group9 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]() |
-| 10 | Pyspark | []() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
-| 11 | Koalas | []() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Group 4 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
+| Group 9 | Selenium | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)]() |
+| Group 7 | Requests | [Puma: sneakers](https://my.puma.com/my/en/women/shoes/sneakers) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/requests) |
+| Group 8 | Lxml | [XXX]() | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://) |
 
 # Python web development
 - [Python Web Development Libraries - Quick Guide](https://www.tutorialspoint.com/python_web_development_libraries/python_web_development_libraries_quick_guide.htm)
