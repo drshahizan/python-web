@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/120556342/213472469-8d7564ad-2111-4c7d-93f2-daab966e322e.png](https://github.com/drshahizan/python-web/blob/decfa339052a38ce432ff4478c9edff32343bc11/selenium/group9/selenium_web.jpeg"/>
+  <img src="https://user-images.githubusercontent.com/120556342/213472469-8d7564ad-2111-4c7d-93f2-daab966e322e.png"/>
 </p>
 <h1>
   Web scraping E-commerce sites with Selenium
