@@ -3,7 +3,7 @@
 </p>
 <h1>
   Web scraping E-commerce sites with Selenium
-  <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/213840786-a564d96a-9798-4a3a-902b-ed90f1e9cef1.png'/>
+  <img width=80px; height=30px src='https://user-images.githubusercontent.com/120556342/213840786-a564d96a-9798-4a3a-902b-ed90f1e9cef1.png'/>
 
   <br>
 </h1>
