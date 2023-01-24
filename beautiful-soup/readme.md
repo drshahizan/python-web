@@ -1,5 +1,5 @@
 <h1 align="center">
-  Beautiful Soup
+  Beautiful Soap
   <br>
 </h1>
 
