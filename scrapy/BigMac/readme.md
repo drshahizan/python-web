@@ -16,8 +16,8 @@
     <th>A20EC0176</th>
   </tr>
     <tr>
-    <th></th>
-    <th></th>
+    <th>Rasmin Kaur Sandhu</th>
+    <th>A19ET0216</th>
   </tr>
     <tr>
     <th></th>
