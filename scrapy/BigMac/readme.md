@@ -1,5 +1,5 @@
 # **Web Scraping Using Scrapy**
-<img src="https://github.com/drshahizan/python-web/blob/main/scrapy/BigMac/1_7KVe2szj1rjt1_Jlmdznkw.png"  width="500" height="300">
+<img src="https://github.com/drshahizan/python-web/blob/main/scrapy/BigMac/1_7KVe2szj1rjt1_Jlmdznkw.png"  width="1000" height="300">
 ## _Group 3_
 <table>
   <tr>
