@@ -1,6 +1,7 @@
 # **Web Scraping Using Scrapy**
 <img src="https://github.com/drshahizan/python-web/blob/main/scrapy/BigMac/1_7KVe2szj1rjt1_Jlmdznkw.png"  width="1000" height="300">
-## _Group 3_
+
+## Group Members:
 <table>
   <tr>
     <th>Name</th>
@@ -22,11 +23,11 @@
     <th>Rasmin Kaur Sandhu</th>
     <th>A19ET0216</th>
   </tr>
-</table>
+</table> 
 
 ---
 **Introduction**
 ---
-The use of Python and Pandas, its most well-liked data wrangling library, is growing rapidly. Python and Pandas make data exploration and transformation easier when compared to rivals like Java. But scalability and efficiency problems with Python and Pandas are well recognised. It therefore comes as no surprise that numerous developers are attempting to increase Python and Pandas' capability in various ways. In this project, we are comparing Pandas and Vaex. Vaex is a partial substitute for Pandas that makes advantage of slow evaluation and memory mapping to let programmers work with huge datasets on common computers.
+In this assignment, we were ask to do some web scraping with the tool that we assigned on. We will try do do web scraping using scrapy on shopee web. The data that we will be scraping are product's name, price, URL and total sold. 
 
 ---
