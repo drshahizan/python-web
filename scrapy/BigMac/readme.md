@@ -28,6 +28,6 @@
 ---
 **Introduction**
 ---
-In this assignment, we were ask to do some web scraping with the tool that we assigned on. We will try do do web scraping using scrapy on shopee web. The data that we will be scraping are product's name, price, URL and total sold. 
+In this assignment, we were ask to do some web scraping with the tool that we assigned on. We will try do do web scraping using scrapy on Shopee.com.my. The data that we will be scraping are product's name, price, URL and total sold. After that, data will be put in a dataframe and export to a .CSV file.
 
 ---
