@@ -15,28 +15,23 @@ In this file, we are going to do some web scraping by using selenium library. We
     <th>Matric</th>
   </tr>
   <tr>
-    <th>Eddie Wong Chung Pheng </th>
-    <th>A20EC0031</th>
-  </tr>
-  <tr>
-    <th>Vincent Boo Ee Khai</th>
-    <th>A20EC0231</th>
-  </tr>
-    <tr>
-    <th>Madihah binti Che Zabri </th>
-    <th>A20EC0074</th>
-  </tr>
-  <tr>
     <th>Nurarissa Dayana binti Mohd Sukri</th>
     <th>A20EC0120</th>
+  </tr>
+  <tr>
+    <th>Madihah binti Che Zabri </th>
+    <th>A20EC0074</th>
   </tr>
 </table>
 <h2>
   About Selenium
   <br>
 </h2>
-Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.<br><br>
-Other than that, it is a Python library and tool used for automating web browsers to do a number of tasks. One of such is web-scraping to extract useful data and information that may be otherwise unavailable.
+The term "Selenium" refers to a variety of open-source browser automation projects. It offers bindings for all significant programming languages, including Python, which is our preferred language.
+
+The WebDriver protocol is used by the Selenium API to control web browsers including Chrome, Firefox, and Safari. Selenium has the ability to control both locally installed and remotely accessible browser instances.
+
+The ability to handle websites naturally, like any browser will, is the main argument in favour of Selenium. It offers a wide variety of ways to interact with websites. This really excels when used with Single-Page Application sites that use a lot of JavaScript. If you used the conventional HTTP client and HTML parser to scrape such a site, you would mostly have a lot of JavaScript files but not a lot of data to scrape.
 
 <h2>
   Results
