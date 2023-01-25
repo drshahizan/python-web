@@ -20,23 +20,21 @@ It can be used to scrape websites built with a variety of technologies, includin
 
 
 ## Spider's functionality
-Scrapy will use a python code called "Spider" to crawl through the website. The spider will start by making an HTTP request to the Bukukita website. Once the spider receives the response it will extract the following data for each book:
+Scrapy will use a python code called "Spider" to crawl through the website. The spider in this porject is called buku and the functions are defined in file buku.py. The spider will start by making an HTTP request to the Bukukita website. Once the spider receives the response it will extract the following data for each book:
 
 1. source	
-2. Judul	Penulis	
-3. No. ISBN	
-4. Penerbit	
-5. Tanggal terbit	
-6. Jumlah Halaman	
-7. Berat	
-8. Jenis Cover	
-9. Dimensi(L x P)	
-10. Kategori	
+2. Title
+3. ISBN No.	
+4. Publisher	
+5. Publish Date	
+6. No of page	
+7. Weight(g)
+8. Cover Type
+9. Dimension
+10. Category
 11. Bonus	
-12. Text Bahasa	
-13. Lokasi Stok	
-14. Buku sejenis lainnya
-
+12. Language	
+13. Stock Location
 
 The spider will continue to follow the links on the page and extract the data for each book it finds.
 
