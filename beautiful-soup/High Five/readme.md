@@ -12,7 +12,6 @@ In this project, we are required to perform web scraping using Beautiful Soup fo
 
 The output of this web scraping will be a list of dictionaries, where each dictionary represents one item from the first ordered list (ol) element on the web page. The dictionaries will contain the following key-value pairs:
 
-    'Category': the text of the first <strong> element found within the list item
     'Course Name': the text of the list item
     'Link': the value of the 'href' attribute of the first <a> element found within the list item.
 
