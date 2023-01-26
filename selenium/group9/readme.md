@@ -22,6 +22,10 @@ In this file, we are going to do some web scraping by using selenium library. We
     <th>Madihah binti Che Zabri </th>
     <th>A20EC0074</th>
   </tr>
+    <tr>
+    <th>Eddie Wong Chung Pheng </th>
+    <th>A20EC0031</th>
+  </tr>
 </table>
 <h2>
   About Selenium
