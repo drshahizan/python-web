@@ -63,15 +63,14 @@ https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiasto
 - [Video: Cara Scraping Banyak Produk Tokopedia Dengan Tools Gratisan Chrome](https://youtu.be/zGOcGU1BSsc)
 - [Python Web Scraping Tutorial: Step-By-Step](https://oxylabs.io/blog/python-web-scraping)
 - [Web Scraping Python Tutorial – How to Scrape Data From A Website](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
+<p align="center">
+<img src="https://github.com/drshahizan/python-web/blob/main/image/libwebscraping.jpg"  height="200" />
+</p>
 
 ## Selenium
 - [Web scraping E-commerce sites to compare prices with Python — Part 1](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62)
 - [Web scraping E-commerce sites to compare prices with Python — Part 2](https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-2-367140620cb6)
 - [Web Scraping Election Results of PRU-15 (GE-15) using Python](https://medium.com/@elvinado/web-scraping-election-results-of-pru-15-ge-15-using-python-e9310129bf9e)
-
-<p align="center">
-<img src="https://github.com/drshahizan/python-web/blob/main/image/libwebscraping.jpg"  height="200" />
-</p>
 
 ## Beautiful Soup
 - [Beautiful Soup: Build a Web Scraper With Python](https://realpython.com/beautiful-soup-web-scraper-python/)
