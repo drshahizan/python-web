@@ -4,6 +4,8 @@
  </p>
 </br>
 
+🚀 Group Members QUAD
+
 # Lxml
 
 lxml is a Python library for working with XML and HTML. It provides a number of ways to parse and interact with these formats, including the use of xpath expressions to search for specific elements in a document. lxml also includes a number of other useful features for working with XML and HTML, such as support for parsing and generating these formats, as well as support for working with different encodings and character sets.
