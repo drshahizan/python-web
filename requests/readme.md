@@ -17,6 +17,7 @@ Using requests library, we can fetch the content from the URL given and Beautifu
 Since the CNY sale, we wanted to web scrape this [Puma website](https://my.puma.com/my/en/women/shoes/sneakers) to see any major differences in price. There will be three metadata that we want to get which are **Product Name, Price New, and Price Old.** 
 
 Price New = price after CNY sale discount
+
 Price Old = the original price without any discount
 
-The results are saved in the puma_sneakers_women_sale.csv file. 
+The results are saved in the [puma_sneakers_women_sale.csv](https://github.com/drshahizan/python-web/blob/main/requests/puma_sneakers_women_sale.csv) file. 
