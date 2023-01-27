@@ -19,3 +19,5 @@ Since the CNY sale, we wanted to web scrape this [Puma website](https://my.puma.
 Price New = price after CNY sale discount
 
 Price Old = the original price without any discount
+
+The results are saved in the puma_sneakers_women_sale.csv file. 
