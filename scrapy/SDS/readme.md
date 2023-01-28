@@ -41,3 +41,9 @@ Built-in support for handling common HTTP status codes
 Built-in support for extracting data from HTML and XML
 Built-in support for generating CSV, JSON, or XML output
 Scrapy is an open-source project, so you can use it for free and make any modifications you need. It is widely used for data mining, data extraction, and web scraping. You can use Scrapy to scrape data from websites, process it and store it in any format you want.
+
+## Installation guide for scrapy
+### Supported Python versions
+Scrapy requires Python 3.7+, either the CPython implementation (default) or the PyPy implementation (see Alternate Implementations).
+
+
