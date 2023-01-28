@@ -3,10 +3,28 @@
 **Group 7**: No Name
 
 **Group Members**:
-1. Madina Suraya binti Zharin A20EC0203
-2. Nur Izzah Mardhiah binti Rashidi A20EC0116
-3. Tan Yong Sheng A20EC0157
-4. Chloe Racquelmae Kennedy A20EC0026
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Matric</th>
+  </tr>
+  <tr>
+    <th>Madina Suraya binti Zharin</th>
+    <th>A20EC0203</th>
+  </tr>
+  <tr>
+    <th>Nur Izzah Mardhiah binti Rashidi</th>
+    <th>A20EC0116</th>
+  </tr>
+    <tr>
+    <th>Tan Yong Sheng</th>
+    <th>A20EC0157</th>
+  </tr>
+    <tr>
+    <th>Chloe Racquelmae Kennedy</th>
+    <th>A20EC0026</th>
+  </tr>
+</table>
 
 ![Requests](https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E)
 
