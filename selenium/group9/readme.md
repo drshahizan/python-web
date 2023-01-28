@@ -39,6 +39,4 @@ The ability to handle websites naturally, like any browser will, is the main arg
   Results
   <br>
 </h2> 
-
-In this lab, our group use Selenium to browse Lazada to look for sellers that sell Milo Activ powder in 1KG packages. We collected the information from the first page of results when searching for "Milo Activ Go 1kg". We collected information such as "ItemName", "Price", "Location", and "Reviews". The results can be seen at the [Lazada_Milo.csv](https://github.com/drshahizan/python-web/blob/main/selenium/AdMiPeQa/Lazada_Milo.csv) file
  
