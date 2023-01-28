@@ -49,4 +49,4 @@ The ability to handle websites naturally, like any browser will, is the main arg
   Reference
   <br>
 </h2>  
-<a>https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62 </a>
+<a href="https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62">Web scraping E-commerce sites to compare prices with Python — Part 1 </a>
