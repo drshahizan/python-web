@@ -26,6 +26,11 @@ In this file, we are going to do some web scraping by using selenium library. We
     <th>Eddie Wong Chung Pheng </th>
     <th>A20EC0031</th>
   </tr>
+    </tr>
+    <tr>
+    <th>Vincent Boo</th>
+    <th>A20EC0231</th>
+  </tr>
 </table>
 <h2>
   About Selenium
@@ -40,3 +45,8 @@ The ability to handle websites naturally, like any browser will, is the main arg
   <br>
 </h2> 
  
+<h2>
+  Reference
+  <br>
+</h2>  
+<a>https://medium.com/@zfwong.wilson/web-scraping-e-commerce-sites-to-compare-prices-with-python-part-1-360509ee5c62 </a>
