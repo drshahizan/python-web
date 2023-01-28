@@ -2,7 +2,7 @@
 
 <h2 align="center">
   Group Members
-  <br>
+  <br> 
 </h2>
 
 <p align="center">
