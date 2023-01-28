@@ -7,7 +7,9 @@
 
   <br>
 </h1>
-In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br>
+Shopee and Lazada are two e-commerce platforms that customers are likely to consider when making an online purchase. As the two largest e-commerce sites that are operating in Malaysia, they are both excellent places to start looking for a deal. It is a common belief that, of the two e-commerce platforms in Malaysia, one is typically more affordable and caters to people who are looking for deals, while the other platform serves customers who are less concerned about prices.
+
+This study will determine whether one of the e-commerce websites is in fact less expensive than the other. Using a Python script with Selenium and the Chrome web driver, we will automate the scraping process and generate our dataset. Here, we will be scraping the product's name and price. Then, we will perform some basic data analysis with Pandas on the scraped dataset. We will conclude the price comparison using Matplotlib and Seaborn to create a simple visual chart.<br>
 <h2> Group Members</h2>
 <table>
   <tr>
