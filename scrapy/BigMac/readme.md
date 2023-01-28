@@ -32,6 +32,6 @@ Scrapy is a Python web scraping framework. It provides a pre-defined set of meth
 
 In this assignment, we were ask to do some web scraping with the tool that we assigned on. We will try do do web scraping using scrapy on `CompAsia.com`. The data that we will be scraping are `product's name`, `price`, `discount` and `URL`. After that, data will be put in a dataframe and export to a .CSV file. The csv file can be found with the name [IphoneProduct.csv](https://github.com/drshahizan/python-web/blob/main/scrapy/BigMac/IphoneProduct.csv) file.
 
-In conclusion, using scrapy for web scrapping is very benificial for extracting important
+In conclusion, using scrapy for web scrapping is very benificial for extracting important information
 
 ---
