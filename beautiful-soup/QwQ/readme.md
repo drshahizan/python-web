@@ -18,7 +18,7 @@
 </h1>
 
 <h2>Introduction</h2>
- In this file, we are scraping the table of states in Malaysia from the Wikipedia website. The reason we chose Wikipedia is because it is a reliable source of information and it is easily accessible to anyone with internet access. The table contains important information such as the state name, capital city, and area of each state. This information can be used for a variety of purposes, such as research or data analysis. To scrape the table, we will be using a BeautifulSoup library which allows us to extract specific elements from a webpage. The process involves sending a request to the Wikipedia webpage, parsing the HTML content, and then extracting the desired data. Once we have the data, we can then store it in a format that is easy to work with, which is a CSV. This file can then be used for further analysis or visualization.
+In this file, we are scraping the table of states in Malaysia from the Wikipedia website. To scrape the table, we will be using a BeautifulSoup library which allows us to extract specific elements from a webpage. The process involves sending a request to the Wikipedia webpage, parsing the HTML content, and then extracting the desired data. Once we have the data, we can then store it in a format that is easy to work with, which is a CSV. This file can then be used for further analysis or visualization.
 
 
 <h2>What is BeautifulSoup</h2>
@@ -35,7 +35,11 @@ pip install beautifulsoup4
 
 Other than that, we also need pandas.
 
+<h2>Scraping the Website</h2>
+As mentioned above, we use Wikipidea website of [Table of States in Malaysia](https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia). The reason we chose Wikipedia is because it is a reliable source of information and it is easily accessible to anyone with internet access. The table contains important information such as the state name, capital city, and area of each state. This information can be used for a variety of purposes, such as research or data analysis.
+
 <h2>Conclusion</h2>
 Overall, scraping the table of states in Malaysia from Wikipedia is a useful and efficient way to gather important information that can be used for a variety of purposes.
 
 <h2>References</h2>
+  1. [Beautiful Soup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
