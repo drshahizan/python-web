@@ -46,4 +46,7 @@ Scrapy is an open-source project, so you can use it for free and make any modifi
 ### Supported Python versions
 Scrapy requires Python 3.7+, either the CPython implementation (default) or the PyPy implementation (see Alternate Implementations).
 
+### Installing Scrapy
+You can install Scrapy and its dependencies from PyPI with:
 
+``` pip install Scrapy ```
