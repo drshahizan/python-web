@@ -36,11 +36,13 @@ pip install beautifulsoup4
 Other than that, we also need pandas.
 
 <h2>Scraping the Website</h2>
-As mentioned above, we use Wikipidea website of [Table of States in Malaysia](https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia). The reason we chose Wikipedia is because it is a reliable source of information and it is easily accessible to anyone with internet access. The table contains important information such as the state name, capital city, and area of each state. This information can be used for a variety of purposes, such as research or data analysis.
+
+    As mentioned above, we use Wikipidea website of [Table of States in Malaysia](https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia). The reason we chose Wikipedia is because it is a reliable source of information and it is easily accessible to anyone with internet access. The table contains important information such as the state name, capital city, and area of each state. This information can be used for a variety of purposes, such as research or data analysis.
 
 <h2>Conclusion</h2>
 Overall, scraping the table of states in Malaysia from Wikipedia is a useful and efficient way to gather important information that can be used for a variety of purposes.
 
 <h2>References</h2>
-  1. [Beautiful Soup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
-  2. [Web Scraping with Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+    1. [Beautiful Soup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
+    2. [Web Scraping with Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
