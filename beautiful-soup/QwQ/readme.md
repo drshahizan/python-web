@@ -43,3 +43,4 @@ Overall, scraping the table of states in Malaysia from Wikipedia is a useful and
 
 <h2>References</h2>
   1. [Beautiful Soup Documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
+  2. [Web Scraping with Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
