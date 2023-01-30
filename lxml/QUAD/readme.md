@@ -6,6 +6,7 @@
 
 🚀 Group Members QUAD
 > 1. Terence Loorthanathan
+> 2. RISHMA FATHIMA BINTI BASHER
 > 3. Chong Kai Zhe
 > 4. NUR SYAMALIA FAIQAH BINTI MOHD KAMAL
 
