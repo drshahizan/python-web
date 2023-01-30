@@ -42,11 +42,6 @@ This study will determine whether one of the e-commerce websites is in fact less
 The term "Selenium" refers to a variety of open-source browser automation projects. It offers bindings for all significant programming languages, including Python, which is our preferred language. The WebDriver protocol is used by the Selenium API to control web browsers including Chrome, Firefox, and Safari. Selenium has the ability to control both locally installed and remotely accessible browser instances.
 
 The ability to handle websites naturally, like any browser will, is the main argument in favour of Selenium. It offers a wide variety of ways to interact with websites. This really excels when used with Single-Page Application sites that use a lot of JavaScript. If you used the conventional HTTP client and HTML parser to scrape such a site, you would mostly have a lot of JavaScript files but not a lot of data to scrape.
-
-<h2>
-  Results
-  <br>
-</h2> 
  
 <h2>
   Reference
