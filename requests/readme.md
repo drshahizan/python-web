@@ -35,6 +35,8 @@ Using requests library, we can fetch the content from the URL given. Requests li
 - Requests also minimizes the need to include query strings in your URLs manually. 
 - It also supports authentication modules and handles cookies and sessions with excellent stability.
 
+## Purpose
+
 However, using requests library solely is not enough to do web scraping. Hence, we need libraries that can parse the document. In this notebook, we use the <b>Beautiful Soup library to parse this document, and extract the text from the div tag.</b>
 
 We chose [Puma website](https://my.puma.com/my/en/women/shoes/sneakers) to perform web scraping since it is the Chinese New Year season, and they offer sale. Therefore, we would like to see if there is any interesting data **(Product Name, Price New, Price Old)** related to their sneakers. 
