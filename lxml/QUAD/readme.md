@@ -49,6 +49,7 @@ What data we are going to scrape?<br>
 We are going to retrieve data of job offerings for Computer/Information technology specialists. We will get basic information of the job offering such as what company is offering it, what is the salary, and what is the job title.<br>
 
 
+<br><br>
 > For more information, you can read here in [lxml - XML and HTML with Python](https://lxml.de/)
 
 <br>
