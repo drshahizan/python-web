@@ -3,7 +3,7 @@
 </p>
 <h1>
   Web Scraping 
-  <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="60" height="30"/> 
+  <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="60" height="36"/> 
   using Selenium
 </h1>
 ________________________________________________________________________________________________________________________________________________________
