@@ -3,6 +3,7 @@
 </p>
 <h1>
   Web Scraping using Selenium
+  <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png"/> 
 </h1>
 ________________________________________________________________________________________________________________________________________________________
 <br>
