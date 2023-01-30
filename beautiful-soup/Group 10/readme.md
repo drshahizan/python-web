@@ -35,5 +35,7 @@
   
   This website is a resource for individuals interested in higher education in Malaysia. It provides a comprehensive list of universities in Malaysia, including both public and private institutions. The website also includes information about the universities' locations, programs offered, and contact information. Additionally, the website provides articles and news related to education and universities in Malaysia, as well as resources for students and parents. The website appears to be operated by StudyMalaysia Group, which is a provider of education and career guidance in Malaysia.
   
-  We plan to obtain data from the website by extracting one of its tables, specifically the list of 20 Public Universities in Malaysia. By analyzing the website's code, we will locate the table and access it using the 'full boxed' class. We will then utilize the pandas library and the BeautifulSoup package to extract the information from the table in html format. Finally, we will convert the obtained data into a CSV file. In summary, we will efficiently retrieve various tables and contents from the website using these tools.
+  We plan to obtain data from the website by extracting one of its tables, specifically the list of 20 Public Universities in Malaysia. By analyzing the website's code, we will locate the table and access it using the 'full boxed' class. We will then utilize the pandas library and the BeautifulSoup package to extract the information from the table in html format. Finally, we will convert the obtained data into a CSV file. 
+    <h1 align="center"> Conclusion </h1>
+    In summary, we will efficiently retrieve various tables and contents from the website using these tools.
 </p>
