@@ -1,5 +1,5 @@
 ## Web-Scraping GE-15 by using Selenium
-We will demonstrate a different method on web scraping by using Selenium. We have chosen a website that presents the winners of the latest General Election (GE-15). From this website, we would get the names of the candidates that won along with the seat they were constesting for and the amount of votes they won with.
+We will demonstrate a different method on web scraping by using Selenium. We have chosen a website that presents the winners of the latest General Election (GE-15). From this website, we would like to acquire the names of the candidates that won along with the seat they were constesting for and the amount of votes they won with.
 <br>
 <h2> Group Members</h2>
 <table>
