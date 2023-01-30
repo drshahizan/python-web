@@ -25,8 +25,11 @@
     <td>A20EC0172</td>
   </tr>
 </table>
-<br> <br>
-
+<br>
+<div align='center'>
+<img src='https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup.jpg' height=200 width=300 alt='beautiful soup'>
+</div>
+<br>
 <p>
   Beautiful Soup is a Python library that is used for web scraping. It allows you to parse the HTML or XML documents into a readable tree-like format, and then extract data from the tree based on its structure. With Beautiful Soup, you can easily navigate through the document, search for specific tags, and extract the text or attributes of those tags. It is often used in combination with other libraries such as requests to programmatically access web pages and extract data from them. The website that we will be using is from https://www.studymalaysia.com/education/top-stories/list-of-universities-in-malaysia.
   
