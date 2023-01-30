@@ -2,8 +2,7 @@
   <img src="https://github.com/drshahizan/python-web/blob/3b73985cb7b94daa350852d751106708f84e4677/selenium/group9/selenium_web.jpeg"/> 
 </p>
 <h1>
-  Selenium Web Scraping
-  <img width=80px; height=30px src='https://user-images.githubusercontent.com/120556342/213840786-a564d96a-9798-4a3a-902b-ed90f1e9cef1.png'/>
+  Web Scraping using Selenium
 
   <br>
 </h1>
