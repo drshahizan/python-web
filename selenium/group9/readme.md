@@ -3,9 +3,8 @@
 </p>
 <h1>
   Web Scraping using Selenium
-
-  <br>
 </h1>
+<br>
 <h2>Web scraping E-commerce sites to compare prices with Python</h2>
 Shopee and Lazada are two e-commerce platforms that customers are likely to consider when making an online purchase. As the two largest e-commerce sites that are operating in Malaysia, they are both excellent places to start looking for a deal. It is a common belief that, of the two e-commerce platforms in Malaysia, one is typically more affordable and caters to people who are looking for deals, while the other platform serves customers who are less concerned about prices.
 <br></br>
