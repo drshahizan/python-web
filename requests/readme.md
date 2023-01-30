@@ -29,13 +29,23 @@
 </table>
 
 ## About Requests
-Using requests library, we can fetch the content from the URL given and Beautiful Soup library helps to parse it and fetch the details the way we want. Requests library is the best choice if you just start with web scraping and have access to an API. It is easy to understand and does not require much practice to master. Requests also minimizes the need to include query strings in your URLs manually. It also supports authentication modules and handles cookies and sessions with excellent stability.
+Using requests library, we can fetch the content from the URL given. Requests library is the best choice if we just start with web scraping and have access to an API. <b>The requests library will make a GET request to a web server, which will download the HTML contents of a given web page for us.</b>
 
-## Results 
-Since the CNY sale, we wanted to web scrape this [Puma website](https://my.puma.com/my/en/women/shoes/sneakers) to see any major differences in price. There will be three metadata that we want to get which are **Product Name, Price New, and Price Old.** 
+- It is easy to understand and does not require much practice to master. 
+- Requests also minimizes the need to include query strings in your URLs manually. 
+- It also supports authentication modules and handles cookies and sessions with excellent stability.
 
-Price New = price after CNY sale discount
+However, using requests library solely is not enough to do web scraping. Hence, we need libraries that can parse the document. In this notebook, we use the <b>Beautiful Soup library to parse this document, and extract the text from the div tag.</b>
 
-Price Old = the original price without any discount
+We chose [Puma website](https://my.puma.com/my/en/women/shoes/sneakers) to perform web scraping since it is the Chinese New Year season, and they offer sale. Therefore, we would like to see if there is any interesting data **(Product Name, Price New, Price Old)** related to their sneakers. 
 
-The results are saved in the [puma_sneakers_women_sale.csv](https://github.com/drshahizan/python-web/blob/main/requests/puma_sneakers_women_sale.csv) file. 
+## Results
+There are 36 items that we had extracted. However, some of them is duplicates and contains null values. 
+
+- Product Name 
+
+- Price New = price after CNY sale discount
+
+- Price Old = the original price without any discount
+
+We then perform some data cleaning before store the data into an Excel file which we also uploaded entitled [puma_sneakers_women_sale.csv](https://github.com/drshahizan/python-web/blob/main/requests/puma_sneakers_women_sale.csv) file. 
