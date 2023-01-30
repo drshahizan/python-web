@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Seleniumm
+  Selenium
   <br>
 </h1>
 Web scraping is the automated gathering of content and data from a website or any other resource available on the internet. Unlike screen scraping, web scraping extracts the HTML code under the webpage. Users can then process the HTML code of the webpage to extract data and carry out data cleaning, manipulation, and analysis. Exhaustive amounts of this data can even be stored in a database for large-scale data analysis projects. The prominence and need for data analysis, along with the amount of raw data which can be generated using web scrapers, has led to the development of tailor-made python packages which make web scraping easy as pie.<br><br>
