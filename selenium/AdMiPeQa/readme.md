@@ -34,6 +34,8 @@ In this file, we are going to do some web scraping by using selenium library. We
 </table>
 <h2>
   About Selenium
+  <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215529579-e4e8c35a-6143-455a-8d84-c77045a27cfe.png'/>
+
   <br>
 </h2>
 Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.<br><br>
