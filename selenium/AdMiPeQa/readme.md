@@ -7,7 +7,8 @@
 
   <br>
 </h1>
-In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br>
+In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br><br>
+<a href="https://www.lazada.com.my/">Website : Lazada</a><br>
 <h2> Group Members <img width=30px; height=30px src="https://user-images.githubusercontent.com/120556342/215398734-609ba04a-88e5-44b5-9eaa-239ac8edd091.png"></h2>
 <table>
   <tr>
