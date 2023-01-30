@@ -2,8 +2,9 @@
   <img src="https://github.com/drshahizan/python-web/blob/3b73985cb7b94daa350852d751106708f84e4677/selenium/group9/selenium_web.jpeg"/> 
 </p>
 <h1>
-  Web Scraping using Selenium
-  <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="70" height="30"/> 
+  Web Scraping 
+  <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="60" height="30"/> 
+  using Selenium
 </h1>
 ________________________________________________________________________________________________________________________________________________________
 <br>
