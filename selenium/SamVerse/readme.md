@@ -12,7 +12,7 @@ We will demonstrate a different method on web scraping by using Selenium. We hav
   </tr>
   <tr>
     <th>AHMAD AIMAN HAFIZI BIN MUHAMMAD</th>
-    <th>A20EC0177</th>
+    <th>A20EC0170</th>
   </tr>
     <tr>
     <th>LEE CAI XUAN</th>
