@@ -34,7 +34,7 @@ In this file, we are going to do some web scraping by using selenium library. We
 </table>
 <h2>
   About Selenium
-  <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215529579-e4e8c35a-6143-455a-8d84-c77045a27cfe.png'/>
+  <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215529579-e4e8c35a-6143-455a-8d84-c77045a27cfe.png'>
 
   <br>
 </h2>
@@ -43,6 +43,8 @@ Other than that, it is a Python library and tool used for automating web browser
 
 <h2>
   Results
+ <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215530028-c7f6cdd6-d9d5-4ae3-aabe-20bdc21052ac.png'>
+
   <br>
 </h2>
 
