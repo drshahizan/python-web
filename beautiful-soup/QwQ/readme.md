@@ -6,10 +6,10 @@
 </h2>
 
 <p align="center">
-  <a>MUHAMMAD DINIE HAZIM BIN AZALI</a><br>
-  <a>RADIN DAFINA BINTI RADIN ZULKAR NAIN</a><br>
-  <a>ADRINA ASYIQIN BINTI MD ADHA</a><br>
-  <a>KELVIN EE</a><br>
+  <a>MUHAMMAD DINIE HAZIM BIN AZALI </a><br>
+  <a>RADIN DAFINA BINTI RADIN ZULKAR NAIN </a><br>
+  <a>ADRINA ASYIQIN BINTI MD ADHA </a><br>
+  <a>KELVIN EE </a><br>
 </p>
 
 <h1 align="center">
@@ -40,6 +40,7 @@ Other than that, we also need pandas.
 As mentioned above, we use Wikipidea website of [Table of States in Malaysia](https://en.wikipedia.org/wiki/States_and_federal_territories_of_Malaysia). The reason we chose Wikipedia is because it is a reliable source of information and it is easily accessible to anyone with internet access. The table contains important information such as the state name, capital city, and area of each state. This information can be used for a variety of purposes, such as research or data analysis.
 
 <h2>Conclusion</h2>
+
 Overall, scraping the table of states in Malaysia from Wikipedia is a useful and efficient way to gather important information that can be used for a variety of purposes.
 
 <h2>References</h2>
