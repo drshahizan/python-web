@@ -52,7 +52,7 @@ You can install Scrapy and its dependencies from PyPI with:
 ``` pip install Scrapy ```
 
 
-<table align="center">
+<table>
   <tr>
     <th>Columns</th>
     <th>Description</th>
