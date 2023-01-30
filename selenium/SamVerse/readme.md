@@ -26,6 +26,7 @@ We will demonstrate a different method on web scraping by using Selenium. We hav
 <h2>About Selenium</h2>
 <br>
 Python, C#, Java, Perl, Ruby, and JavaScript are just a few of the scripting languages that are supported by the open source automation testing tool Selenium. One can select the script in accordance with the application that needs to be tested.
+Python, C#, Java, Perl, Ruby, and JavaScript are just a few of the scripting languages that are supported by the open source automation testing tool Selenium. One can select the script in accordance with the application that needs to be tested.
 In addition, it is a Python library and utility for automating a variety of operations in web browsers. Web scraping is one method for obtaining relevant data and information that would not otherwise be available.
 <h2>Results</h2>
 <br>
