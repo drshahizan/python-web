@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/drshahizan/python-web/blob/3b73985cb7b94daa350852d751106708f84e4677/selenium/group9/selenium_web.jpeg"/> 
 </p>
 <h1>
