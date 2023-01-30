@@ -4,6 +4,7 @@
 <h1>
   Web Scraping 
   <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="60" height="36"/> 
+  vs
   <img src="https://github.com/Madihah04/python-web/blob/ec732a988c52566db5aafbac992b7e065288e3c2/selenium/group9/shopee.png" width="40" height="36"/> 
   using Selenium
 </h1>
