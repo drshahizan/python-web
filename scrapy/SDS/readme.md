@@ -75,4 +75,9 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>Format</th>
     <th>Format of the book</th>
   </tr>
+  <tr>
+    <th>Price</th>
+    <th>Price of the book</th>
+  </tr>
+  
 </table>
