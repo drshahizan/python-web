@@ -83,8 +83,4 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>review/helpfulness</th>
     <th>Helpfulness rating</th>
   </tr>
-  <tr>
-    <th>review/score</th>
-    <th>Book's rating</th>
-  </tr>
 </table>
