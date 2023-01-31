@@ -71,4 +71,8 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>Published date</th>
     <th>The date of the book published</th>
   </tr>
+  <tr>
+    <th>Format</th>
+    <th>Format of the book</th>
+  </tr>
 </table>
