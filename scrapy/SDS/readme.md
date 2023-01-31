@@ -75,8 +75,4 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>User_id</th>
     <th>Id of the user</th>
   </tr>
-  <tr>
-    <th>profileName</th>
-    <th>Name of the user</th>
-  </tr>
 </table>
