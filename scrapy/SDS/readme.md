@@ -63,4 +63,8 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>Title</th>
     <th>Title of the book</th>
   </tr>
+  <tr>
+    <th>Author</th>
+    <th>Author of the book</th>
+  </tr>
 </table>
