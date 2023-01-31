@@ -15,6 +15,7 @@ Shopee and Lazada are two e-commerce platforms that customers are likely to cons
 <br></br>
 This study will determine whether one of the e-commerce websites is in fact less expensive than the other. Using a Python script with Selenium and the Chrome web driver, we will automate the scraping process and generate our dataset. Here, we will be scraping the product's name and price. Then, we will perform some basic data analysis with Pandas on the scraped dataset. We will conclude the price comparison using Matplotlib and Seaborn to create a simple visual chart.<br>
 <h2> Group Members</h2>
+
 <table>
   <tr>
     <th>Name</th>
