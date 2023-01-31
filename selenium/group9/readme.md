@@ -34,7 +34,7 @@ This study will determine whether one of the e-commerce websites is in fact less
   </tr>
     </tr>
     <tr>
-    <th>Vincent Boo</th>
+    <th>Vincent Boo Ee</th>
     <th>A20EC0231</th>
   </tr>
 </table>
