@@ -59,8 +59,4 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>Columns</th>
     <th>Description</th>
   </tr>
-  <tr>
-    <th>Id</th>
-    <th>The Id of the book</th>
-  </tr>
 </table>
