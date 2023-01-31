@@ -95,8 +95,4 @@ You can install Scrapy and its dependencies from PyPI with:
     <th>review/summary</th>
     <th>Review summary</th>
   </tr>
-  <tr>
-    <th>review/text</th>
-    <th>Full text review</th>
-  </tr>
 </table>
