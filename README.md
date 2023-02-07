@@ -107,8 +107,8 @@ https://github.com/atlas-github/malaysiastockbiz_scraper/blob/master/malaysiasto
 | Quad | Lxml | [Jobstreet.com](https://www.jobstreet.com.my) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/drshahizan/python-web/tree/main/lxml/QUAD) |
 
 
-<p align="center">
-<img src="https://github.com/drshahizan/python-web/blob/main/image/Top-python-web-frameworks.jpg"  height="200" />
+<p align="left">
+<img src="https://github.com/drshahizan/python-web/blob/main/image/Top-python-web-frameworks.jpg"  height="400" />
 </p>
 
 # Python web development
