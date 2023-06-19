@@ -3,8 +3,7 @@
 <a href="https://github.com/drshahizan/python-web/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/python-web" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/python-web/issues"><img src="https://img.shields.io/github/issues/drshahizan/python-web" alt="Issues Badge"/></a>
 <a href="https://github.com/drshahizan/python-web/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/python-web?color=2b9348"></a>
-![](https://visitor-badge.glitch.me/badge?page_id=drshahizan/python-web)
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fpython-web&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 Don't forget to hit the :star: if you like this repo.
 
 # About Us
@@ -21,6 +20,9 @@ The information on this Github is part of the materials for the subject High Per
 - [Big data processing](https://github.com/drshahizan/Python-big-data)
 
 ### Contents:
+- [About Us](#about-us)
+- [📚 Course: High Performance Data Processing](#-course-high-performance-data-processing)
+    - [Contents:](#contents)
 - [Web Scraping](#web-scraping)
   - [Tutorial](#tutorial)
   - [Selenium](#selenium)
@@ -28,13 +30,8 @@ The information on this Github is part of the materials for the subject High Per
   - [Scrapy](#scrapy)
   - [Requests](#requests)
   - [Lxml](#lxml)
-- [Python web development](#python-web-development)
-  - [PyScript](#pyScript)
-  - [Django](#django)
-  - [Python TurboGears](#python-turbogears)
-  - [web2py](#web2py)
-  - [Power BI](#power-bi)
-- [Lab](#lab)
+  - [🌟 Case Study: Web Scraping](#-case-study-web-scraping)
+  - [Contribution 🛠️](#contribution-️)
 
 <p align="center">
 <img src="https://github.com/drshahizan/python-web/blob/main/image/web-scraping-using-python.png"  height="150" />
